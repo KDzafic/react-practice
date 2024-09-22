@@ -4,6 +4,8 @@
 
 This project is a simple React application that demonstrates the core concepts of React, such as components, JSX, props, and state management. The application was built as part of a Udemy course to learn the basics of React development.
 
+![brave_e7YpY8ewII](https://github.com/user-attachments/assets/6d24ab9f-4fb8-4abd-8616-42c1c6475272)
+
 ## Features
 
 - **Core Concepts Section:** Displays essential React concepts, such as components, props, and JSX, with dynamically rendered descriptions and images.
