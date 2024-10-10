@@ -6,6 +6,8 @@ This is a simple Tic-Tac-Toe game built using React. It allows two players to ta
 
 The app also features a rematch button after the game is over.
 
+![brave_8gJc3aCJf2](https://github.com/user-attachments/assets/d4436bdc-f11f-4f32-a0b3-c0298e41b596)
+
 ## Features
 
 - **Player customization**: Players can edit their names at any time.
