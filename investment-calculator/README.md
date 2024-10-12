@@ -4,6 +4,8 @@
 
 This project is a **React-based Investment Calculator** that allows users to input financial details, such as initial investment, annual contributions, and expected returns, to project their investment growth over time. It provides a user-friendly interface to display annual investment summaries, including total capital, yearly interest, and total returns.
 
+![image](https://github.com/user-attachments/assets/48861fd7-ec6c-4363-83da-019e263e7cfe)
+
 ## Features
 
 - **Dynamic Input Fields**: Users can enter custom values for initial investment, annual contributions, expected return rates, and duration.
