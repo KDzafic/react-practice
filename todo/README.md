@@ -4,6 +4,8 @@
 
 This React-based **Project Management App** allows users to manage projects efficiently by creating, viewing, and deleting projects and tasks. The app also features input validation, modals for error handling, and smooth navigation between different project views.
 
+![brave_61D9OqyAYj](https://github.com/user-attachments/assets/85a23ade-44cf-4c90-b9b2-b9f0467352d9)
+
 ## Features
 
 - **Create Projects:** Add projects with a title, description, and due date.
